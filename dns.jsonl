@@ -1,3 +1,4 @@
+{"domain": "example.com", "type": "GHUSR", "username": "kelvinzer0"}
 {"domain": "example.com", "type": "A", "address": "192.168.1.1"}
 {"domain": "example.com", "type": "MX", "mail_server": "mail.example.com"}
 {"domain": "example.com", "type": "TXT", "text": "v=spf1 mx -all"}
@@ -6,6 +7,7 @@
 {"domain": "example.com", "type": "CNAME", "alias": "www", "canonical": "example.com"}
 {"domain": "example.com", "type": "AAAA", "address": "2001:0db8:85a3:0000:0000:8a2e:0370:7334"}
 
+{"domain": "example.net", "type": "GHUSR", "username": "kelvinzer0"}
 {"domain": "example.net", "type": "A", "address": "192.168.1.2"}
 {"domain": "example.net", "type": "MX", "mail_server": "mail.example.net"}
 {"domain": "example.net", "type": "TXT", "text": "v=spf1 mx -all"}
@@ -14,6 +16,7 @@
 {"domain": "example.net", "type": "CNAME", "alias": "www", "canonical": "example.net"}
 {"domain": "example.net", "type": "AAAA", "address": "2001:0db8:85a3:0000:0000:8a2e:0370:7335"}
 
+{"domain": "example.org", "type": "GHUSR", "username": "kelvinzer0"}
 {"domain": "example.org", "type": "A", "address": "192.168.1.3"}
 {"domain": "example.org", "type": "MX", "mail_server": "mail.example.org"}
 {"domain": "example.org", "type": "TXT", "text": "v=spf1 mx -all"}
