@@ -1,0 +1,8 @@
+{"domain": "example.zxz", "type": "GHUSR", "username": "kelvinzer0"}
+{"domain": "example.zxz", "type": "A", "address": "192.168.1.3"}
+{"domain": "example.zxz", "type": "MX", "mail_server": "mail.example.zxz", "priority":"1"}
+{"domain": "example.zxz", "type": "TXT", "text": "v=spf1 mx -all"}
+{"domain": "example.zxz", "type": "NS", "nameserver": "ns1.example.zxz"}
+{"domain": "example.zxz", "type": "SOA", "primary_ns": "ns1.example.zxz", "contact": "admin.example.zxz", "serial": "2023071401"}
+{"domain": "example.zxz", "type": "CNAME", "alias": "www", "canonical": "example.zxz"}
+{"domain": "example.zxz", "type": "AAAA", "address": "2001:0db8:85a3:0000:0000:8a2e:0370:7336"}
