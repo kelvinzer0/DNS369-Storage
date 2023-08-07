@@ -3,7 +3,6 @@
 {"domain": "example.comz", "type": "MX", "mail_server": "mail.example.comz", "priority":"1"}
 {"domain": "example.comz", "type": "TXT", "text": "v=spf1 mx -all"}
 {"domain": "example.comz", "type": "NS", "nameserver": "ns1.example.comz"}
-{"domain": "example.comz", "type": "SOA", "primary_ns": "ns1.example.comz", "contact": "admin.example.comz", "serial": "2023071401"}
 {"domain": "example.comz", "type": "CNAME", "alias": "www", "canonical": "example.comz"}
 {"domain": "example.comz", "type": "AAAA", "address": "2001:0db8:85a3:0000:0000:8a2e:0370:7334"}
 
@@ -12,7 +11,6 @@
 {"domain": "example.netz", "type": "MX", "mail_server": "mail.example.netz", "priority":"1"}
 {"domain": "example.netz", "type": "TXT", "text": "v=spf1 mx -all"}
 {"domain": "example.netz", "type": "NS", "nameserver": "ns1.example.netz"}
-{"domain": "example.netz", "type": "SOA", "primary_ns": "ns1.example.netz", "contact": "admin.example.netz", "serial": "2023071401"}
 {"domain": "example.netz", "type": "CNAME", "alias": "www", "canonical": "example.netz"}
 {"domain": "example.netz", "type": "AAAA", "address": "2001:0db8:85a3:0000:0000:8a2e:0370:7335"}
 
@@ -21,7 +19,6 @@
 {"domain": "example.orgz", "type": "MX", "mail_server": "mail.example.orgz", "priority":"1"}
 {"domain": "example.orgz", "type": "TXT", "text": "v=spf1 mx -all"}
 {"domain": "example.orgz", "type": "NS", "nameserver": "ns1.example.orgz"}
-{"domain": "example.orgz", "type": "SOA", "primary_ns": "ns1.example.orgz", "contact": "admin.example.orgz", "serial": "2023071401"}
 {"domain": "example.orgz", "type": "CNAME", "alias": "www", "canonical": "example.orgz"}
 {"domain": "example.orgz", "type": "AAAA", "address": "2001:0db8:85a3:0000:0000:8a2e:0370:7336"}
 
@@ -30,6 +27,5 @@
 {"domain": "example.zxz", "type": "MX", "mail_server": "mail.example.zxz", "priority":"1"}
 {"domain": "example.zxz", "type": "TXT", "text": "v=spf1 mx -all"}
 {"domain": "example.zxz", "type": "NS", "nameserver": "ns1.example.zxz"}
-{"domain": "example.zxz", "type": "SOA", "primary_ns": "ns1.example.zxz", "contact": "admin.example.zxz", "serial": "2023071401"}
 {"domain": "example.zxz", "type": "CNAME", "alias": "www", "canonical": "example.zxz"}
 {"domain": "example.zxz", "type": "AAAA", "address": "2001:0db8:85a3:0000:0000:8a2e:0370:7336"}
