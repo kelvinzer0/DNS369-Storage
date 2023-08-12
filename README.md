@@ -1,4 +1,5 @@
 <img src="https://github.com/kelvinzer0/DNS369-Storage/blob/main/media-kit/logo-DNS469.png?raw=true" width="100%" style="justify-content: center;align-items: center;"/>
+
 # DNS369 Free Domain Setup Guide
 
 To create a free domain on the DNS369 server, follow the steps below:
