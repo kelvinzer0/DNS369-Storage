@@ -1,5 +1,6 @@
 # DNS369 Free Domain Setup Guide
 
+<img src="https://github.com/kelvinzer0/DNS369-Storage/blob/main/media-kit/logo-DNS469.png?raw=true" />
 To create a free domain on the DNS369 server, follow the steps below:
 
 ## Step 1: Add DNS Configuration to dns.jsonl File
